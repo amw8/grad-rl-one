@@ -102,15 +102,15 @@ All course reading material will be available online. We will be using videos fr
 All assignments written and programming are to be done individually. No exceptions. Students must write their own answers and code. Students are permitted and encouraged to discuss assignment problems and the contents of the course. However, the discussion should always be about high-level ideas. Students should not discuss with each other (or tutors) while writing answers to written questions our programming. Absolutely no sharing of answers or code sharing with other students or tutors. All the sources used for problem solution must be acknowledged, e.g. web sites, books, research papers, personal communication with people, etc. The University of Alberta is committed to the highest standards of academic integrity and honesty. Students are expected to be familiar with these standards regarding academic honesty and to uphold the policies of the University in this respect. Students are particularly urged to familiarize themselves with the provisions of the Code of Student Behaviour and avoid any behaviour which could potentially result in suspicions of cheating, plagiarism, misrepresentation of facts and/or participation in an offence. Academic dishonesty is a serious offence and can result in suspension or expulsion from the University. (GFC 29 SEP 2003)
 
 ### FAQ on using Coursera
-Error with Quiz Submission
+#### Error with Quiz Submission
 If you get have any issues with submitting quizzes, try clearing the internet cache, closing all browser windows, and re-logging again to Coursera.
 
-Jupyter Notebook Assignment Grading
+#### Jupyter Notebook Assignment Grading
 Jupyter notebook assignments include local tests (included in the notebook), as well as grader tests that is hidden from the learners.
 
 Please make sure your assignment passes all the local tests before submitting. Also, the solutions have to be general (i.e. not hard-coded) in order to pass the grader tests. Local test cases are not comprehensive, and even if you pass all the local tests, you may not get full marks.
 
 Try to make your code general to work robustly for various cases. (e.g. using variable grid_w instead of value 12)
 
-Error: Submit button is missing
+#### Error: Submit button is missing
 On rare occasion you may face issues submitting jupyter notebook assignments. If the submit button is missing, please make sure you are only working on the notebook on a single device. If the problem still persists, try setting “?forceRefresh=true” in your notebook URL (reference: https://learner.coursera.help/hc/en-us/articles/360004995312-Solve-problems-with-Jupyter-Notebooks)
