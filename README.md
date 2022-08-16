@@ -66,7 +66,7 @@ That will not be acceptable in this course.
 The goal here is to specify a small, 
 feasible question that can be addressed thoroughly within the time-frame of the course. 
 This means you have specified a clear question, and obtained clear evidence (thorough empirical study with controls and statistical significance).
-# I will provide a list of projects. You can pick one.
+#### I will provide a list of projects. You can pick one.
 
 ### Prerequisites
 The course will use Python 3. We will use elementary ideas of probability, calculus, and linear algebra, such as expectations of random variables, conditional expectations, partial derivatives, vectors and matrices. Students should either be familiar with these topics or be ready to pick them up quickly as needed by consulting outside resources.
