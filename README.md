@@ -15,7 +15,7 @@ Fall, 2022
 TuThr 2:00 p.m. - 3:30 p.m.
 
 ### Lecture Location: 
-ETLC E1-007
+ED 276
 
 ### Instruction Team:
 Adam White (amw8@ualberta.ca)<br>
@@ -68,17 +68,17 @@ feasible question that can be addressed thoroughly within the time-frame of the 
 This means you have specified a clear question, and obtained clear evidence (thorough empirical study with controls and statistical significance).
 #I will provide a list of projects. You can pick one.
 
-Prerequisites
+### Prerequisites
 The course will use Python 3. We will use elementary ideas of probability, calculus, and linear algebra, such as expectations of random variables, conditional expectations, partial derivatives, vectors and matrices. Students should either be familiar with these topics or be ready to pick them up quickly as needed by consulting outside resources.
 
-Course Topics
-With a focus on AI as the design of agents learning from experience to predict and control their environment, topics will include
+### Course Topics
+With a focus on AI as the design of agents learning from experience to predict and control their environment, topics will include:
 
-Markov decision processes
-Planning by approximate dynamic programming
-Monte Carlo and Temporal Difference Learning for prediction
-Monte Carlo, Sarsa and Q-learning for control
-Dyna and planning with a learned model
-Prediction and control with function approximation
-Policy gradient methods
-You will also learn how to read and critically assess RL papers. As a group, we will be create a document identifying errors we find in RL papers. The goal of this is to improve correctness in your own projects, and potentially also help others coming to the area avoid common mistakes.
+- Markov decision processes
+- Planning by approximate dynamic programming
+- Monte Carlo and Temporal Difference Learning for prediction
+- Monte Carlo, Sarsa and Q-learning for control
+- Dyna and planning with a learned model
+- Prediction and control with function approximation
+- Policy gradient methods
+
