@@ -23,7 +23,7 @@ Vincent Liu<br>
 Jordan Coblin<br>
 
 ### Office Hours:
-Adam: Thursday directly after class (in 307 Athabasca Hall)<br>
+Adam: Tuesday directly after class (in 307 Athabasca Hall)<br>
 TAs will hold a 2hr office hour slot every week<br>
 Vincent: TBA<br>
 Jordan: TBA
