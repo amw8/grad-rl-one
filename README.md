@@ -25,8 +25,8 @@ Jordan Coblin<br>
 ### Office Hours:
 Adam: Tuesday directly after class (in 307 Athabasca Hall)<br>
 TAs will hold a 2hr office hour slot every week<br>
-Vincent: TBA<br>
-Jordan: TBA
+Vincent: Friday 2:30-4:30 PM<br>
+Jordan: Wednesdays 2-3:30 PM
 
 ### TA Email Address:
 ????@gmail.com
