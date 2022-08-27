@@ -19,18 +19,14 @@ ED 276
 
 ### Instruction Team:
 Adam White (amw8@ualberta.ca)<br>
-Vincent Liu<br>
-Jordan Coblin<br>
+Vincent Liu (vliu1@ualberta.ca)<br>
+Jordan Coblin (coblin@ualberta.ca)<br>
 
 ### Office Hours:
 Adam: Tuesday directly after class (in 307 Athabasca Hall)<br>
 TAs will hold a 2hr office hour slot every week<br>
 Vincent: Friday 2:30-4:30 PM (on Google meet: https://meet.google.com/nqc-upoc-bkj)<br>
 Jordan: Wednesdays 2-3:30 PM (on Google meet: https://meet.google.com/jjh-afky-jxa)
-
-### TA Email Address:
-????@gmail.com
-(Do not presonally email the TAs. They will only respond via ????@gmail.com)
 
 ### Overview
 This course provides an introduction to reinforcement learning, 
