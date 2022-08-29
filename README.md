@@ -83,7 +83,7 @@ The primary evaluation will be from the project. You will have an initial draft 
 
 The course work will come from the quizzes and assignments through the Coursera Platform. There will be one or two small programming assignments (notebook) and/or one or two multiple choice quizzes due each week, through the Coursera Platform. Each week, you have to complete the practice quizzes and submit a discussion question by midnight on Sunday, for discussion in class. That means you have to have completed the lectures and readings as well for that week. The course will have a midterm exam, that will come after completing the Mooc by mid October. The remainder of the course will be focused on projects.
 
-There are 12 graded assignments. They are usually python notebooks, but sometimes it is a Graded Quiz or a Peer Review. All items will be due on Friday at midnight. Each graded assignment has equal weight (30/12).
+There are 12 graded assignments. They are usually python notebooks, but sometimes it is a Graded Quiz or a Peer Review. All items will be due on Thursdays at 11:59 PM. Each graded assignment has equal weight (30/12).
 
 - Assignments (graded on Coursera): 30%
 - In-class Participation and discussion questions: 10%
