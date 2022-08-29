@@ -2,7 +2,7 @@
 
 
 ## Schedule
-[For the current schedule](schedule.md)
+[For the current schedule](https://docs.google.com/spreadsheets/d/1xnkBx94ALA9m6JWBM4VEJfOXvX3DH240KsvkLRFidPE/edit?usp=sharing)
 
 ## Syllabus
 
