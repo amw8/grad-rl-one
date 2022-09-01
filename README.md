@@ -26,7 +26,7 @@ Jordan Coblin (coblin@ualberta.ca)<br>
 Adam: Tuesday directly after class (in 307 Athabasca Hall)<br>
 TAs will hold a 2hr office hour slot every week<br>
 Vincent: Friday 2:30-4:30 PM (on Google meet: https://meet.google.com/nqc-upoc-bkj)<br>
-Jordan: Wednesdays 2-3:30 PM (on Google meet: https://meet.google.com/jjh-afky-jxa)
+Jordan: Wednesdays 2:30-4:30 PM (on Google meet: https://meet.google.com/jjh-afky-jxa)
 
 ### Overview
 This course provides an introduction to reinforcement learning, 
